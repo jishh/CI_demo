@@ -5,7 +5,7 @@
 @class Guild;
 
 @interface WoWApiClient : AFHTTPClient
-
+//hjhfjvhj
 typedef void (^GuildBlock)(Guild *guild);
 typedef void (^CharacterBlock)(Character *character);
 typedef void (^ErrorBlock)(NSError *error);
